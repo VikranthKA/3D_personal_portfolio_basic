@@ -28,10 +28,10 @@ import Postman from "../assets/Postman.jpeg"
 import RESTAPI from "../assets/RestAPI.jpeg"
 import VScode from "../assets/VScode.jpeg"
 
-// import dct from "../assets/dct.png"
+import dct from "../assets/dct.png"
 import eventspot from "../assets/eventspot.jpg"
 import blogapp from "../assets/blogapp.jpg"
-// import devnbrand from "../assets/devnbrand.jpeg"
+import devnbrand from "../assets/devnbrand.jpeg"
 import todo_next_type from "../assets/todo_next_type.png"
 import ai_mock_interview from '../assets/ai_mock_interview.png'
 import tcs2 from "../assets/company/tcs2.png"
@@ -170,18 +170,18 @@ const experiences = [
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
-  {
-    title: "MERN Stack Developer",
-    company_name: " Nayagara Technologies, Client -TCS, Bangalore",
-    icon: tcs2,
-    iconBg: "#ffffff",
-    date: "July 2023 - July 2026",
-    points: [
-      "Software Engineer with 2.8 years of experience developing scalable web applications using the MERN stack.",
-      "At Tata Consultancy Services, I design and build responsive user interfaces with React.js, Next.js, and Tailwind CSS while integrating RESTful APIs developed using Node.js and Express.js.",
-      "I collaborate with cross-functional teams to implement features, optimize performance, resolve production issues, and deliver reliable, user-focused solutions in Agile environments.",
-    ],
-  }
+  // {
+  //   title: "MERN Stack Developer",
+  //   company_name: " Nayagara Technologies, Client -TCS, Bangalore",
+  //   icon: tcs2,
+  //   iconBg: "#ffffff",
+  //   date: "July 2023 - July 2026",
+  //   points: [
+  //     "Software Engineer with 2.8 years of experience developing scalable web applications using the MERN stack.",
+  //     "At Tata Consultancy Services, I design and build responsive user interfaces with React.js, Next.js, and Tailwind CSS while integrating RESTful APIs developed using Node.js and Express.js.",
+  //     "I collaborate with cross-functional teams to implement features, optimize performance, resolve production issues, and deliver reliable, user-focused solutions in Agile environments.",
+  //   ],
+  // }
   // {
   //   title: "Full stack Developer",
   //   company_name: "Meta",
