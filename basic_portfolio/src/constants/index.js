@@ -34,7 +34,7 @@ import blogapp from "../assets/blogapp.jpg"
 import devnbrand from "../assets/devnbrand.jpeg"
 import todo_next_type from "../assets/todo_next_type.png"
 import ai_mock_interview from '../assets/ai_mock_interview.png'
-import tcs2 from "../assets/company/tcs2.png"
+// import tcs2 from "../assets/company/tcs2.png"
 // import tcs from "../assets/company/tcs.webp"
 
 
